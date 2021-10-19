@@ -12,7 +12,6 @@ function pula() {
     document.write('<br>')
 }
 
-
 document.write('Distancia percorrida : ' + distancia + ' KM')
 pula()
 document.write('Autonomia: ' + kml + 'Km/L')
